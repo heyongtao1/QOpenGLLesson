@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/texture/NeHe.bmp</file>
+        <file>resources/texture/mood.jpg</file>
+        <file>resources/texture/Marble.jpg</file>
+        <file>resources/texture/Stone.jpg</file>
+        <file>resources/texture/grass.png</file>
+        <file>resources/texture/natural.jpg</file>
+        <file>resources/Skybox/02.tif</file>
+        <file>resources/Skybox/03.tif</file>
+        <file>resources/Skybox/04.tif</file>
+        <file>resources/Skybox/05.jpg</file>
+        <file>resources/Skybox/06.jpg</file>
+        <file>resources/Skybox/01.tif</file>
+    </qresource>
+</RCC>
